@@ -1,7 +1,7 @@
 # Tutorials
 This repository will have links to all the tutorials that are created for this class.
 
-# How to Contribute
+## How to Contribute
 1. Edit the README.md and add your link to your tutorial in the 'Links' table below.
 2. Write them in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Feel free to add your own style.
 
@@ -29,7 +29,7 @@ This repository will have links to all the tutorials that are created for this c
   
 
 
-# Links
+## Links
 #### Scope: Project 2
 | Repository        | Topics/Tags  | Description  | Group |
 | ----------------- |:--------------| :------------| :-----:|
